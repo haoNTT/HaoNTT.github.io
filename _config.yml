@@ -6,7 +6,10 @@ description: "This website is Howard Tian's personal page. Come and find more ab
 plugins:
   - jekyll-include-cache
   - jekyll-titles-from-headings
-
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
 defaults:
   - scope:
       path: some-path
