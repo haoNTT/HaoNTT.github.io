@@ -1,7 +1,7 @@
 ---
 title: About
 description: Welcome to the about page
-permalink: /About/
+permalink: /about/
 layout: single
 ---
-## This is the about page
+## Learn more about me
