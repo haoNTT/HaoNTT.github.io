@@ -3,6 +3,7 @@ minimal_mistakes_skin: "contrast"
 title: "Howard Tian's personal page"
 title_separator: "-->"
 description: "This website is Howard Tian's personal page. Come and find more about his stories and experience."
+include: ["_pages"]
 plugins:
   - jekyll-include-cache
   - jekyll-titles-from-headings
